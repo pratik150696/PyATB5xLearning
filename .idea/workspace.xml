@@ -4,28 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002_Python_Basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112014_Keywords_Identifier_Variables/Lab004_Keywords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112014_Keywords_Identifier_Variables/Lab005_Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112014_Keywords_Identifier_Variables/Lab006_Varibale_Identifier_Rules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112014_Keywords_Identifier_Variables/Lab006_Varibale_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112014_Keywords_Identifier_Variables/Lab008_Dynamically_Typed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112014_Keywords_Identifier_Variables/Lab009_Long_Variable_Name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112014_Keywords_Identifier_Variables/Lab010_Add.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112014_Keywords_Identifier_Variables/Lab011_BODMAS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112014_Keywords_Identifier_Variables/Lab012_Multiple_var_in_singleline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112014_Keywords_Identifier_Variables/Lab013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112014_Keywords_Identifier_Variables/Lab014_Math_Function.py" afterDir="false" />
+    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="New Files Added">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab020_Built_In_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab021_UserInput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab022_User_Input_Sum_Of_Two_Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab023_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab024_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab025_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab026_Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab027_Escape_Char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab028_Escape_Char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab029_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab030_Task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,28 +60,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab001_Python_HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab002_Python_Basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003_Python_Basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005_Variable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab006_Varibale_Identifier_Rules.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008_Dynamically_Typed.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009_Long_Variable_Name.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab011_BODMAS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab012_Multiple_var_in_singleline.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab014_Math_Function.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab001_Python_HelloWorld.executor": "Run",
+    "Python.Lab002_Python_Basics.executor": "Run",
+    "Python.Lab003_Python_Basics.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab005_Variable.executor": "Run",
+    "Python.Lab006_Varibale_Identifier_Rules.executor": "Run",
+    "Python.Lab008_Dynamically_Typed.executor": "Run",
+    "Python.Lab009_Long_Variable_Name.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011_BODMAS.executor": "Run",
+    "Python.Lab012_Multiple_var_in_singleline.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014_Math_Function.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020_Built_In_Function.executor": "Run",
+    "Python.Lab021_UserInput.executor": "Run",
+    "Python.Lab022_User_Input_Sum_Of_Two_Numbers.executor": "Run",
+    "Python.Lab023_Strings.executor": "Run",
+    "Python.Lab025_Strings.executor": "Run",
+    "Python.Lab027_Escape_Char.executor": "Run",
+    "Python.Lab028_Escape_Char.executor": "Run",
+    "Python.Lab029_Task1.executor": "Run",
+    "Python.Lab030_Task2.executor": "Run",
+    "Python.Lba024.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Python.Lab001_Python_HelloWorld">
+}]]></component>
+  <component name="RunManager">
     <configuration name="Lab001_Python_HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -154,6 +162,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730835700134</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Files Added">
+      <option name="closed" value="true" />
+      <created>1731121377607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731121377607</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Files Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Files Added" />
   </component>
 </project>
