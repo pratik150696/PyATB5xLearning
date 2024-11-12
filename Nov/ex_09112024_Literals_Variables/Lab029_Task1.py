@@ -8,7 +8,7 @@ num3 = int(input("Enter Number Three "))
 sum = num1 + num2 + num3
 sub = num1 - num2 - num3
 multi = num1 * num2 * num3
-div = num1 / num2 / num3
+div = (num1 / num2) / num3
 
 print("Sum is: ", sum)
 print("Sub is: ", sub)
