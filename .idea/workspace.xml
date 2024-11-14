@@ -5,24 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="Task 1 and Task 2 Solved">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab031_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab032_Arithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab033_Operator_P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab034_Operator_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab035_Operator_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab036_Operator_P4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab037_Operator_P5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab038_Operator_P6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab039_Operator_P7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab040_Operator_P8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab041_Ternary_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab042_User_Input_Ternary_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab043_Coding_Q_AreaOfCircle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab044_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab045_Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab046_Task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab047_If_Else_Condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab048_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab049_If_Else_Condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab050_If_Else_Condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab051_Grade_Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab052_Task1_Leap_Year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab053_Task2_Triangle_Classifier.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab029_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab029_Task1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +95,13 @@
     "Python.Lab044_Task1.executor": "Run",
     "Python.Lab045_Task2.executor": "Run",
     "Python.Lab046_Task3.executor": "Run",
+    "Python.Lab048_Q.executor": "Run",
+    "Python.Lab049_If_Else_Condition.executor": "Run",
+    "Python.Lab050_If_Else_Condition.executor": "Run",
+    "Python.Lab051_Grade_Calculator.executor": "Run",
+    "Python.Lab051_Task1.executor": "Run",
+    "Python.Lab052_Task1_Leap_Year.executor": "Run",
+    "Python.Lab053_Task2_Triangle_Classifier.executor": "Run",
     "Python.Lba024.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
