@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="Task 1 and Task 2 Solved">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab047_If_Else_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab048_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab049_If_Else_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab050_If_Else_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab051_Grade_Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab052_Task1_Leap_Year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab053_Task2_Triangle_Classifier.py" afterDir="false" />
+    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="14 Nov Task added">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab054_For_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab055_For_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab056_For_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab057_For_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab058_For_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab059_While_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab060_For_Break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab061_For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab062_For_Pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab063_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab064_For_Continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab065_Match_Statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab066_Task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,6 +108,19 @@
     "Python.Lab051_Task1.executor": "Run",
     "Python.Lab052_Task1_Leap_Year.executor": "Run",
     "Python.Lab053_Task2_Triangle_Classifier.executor": "Run",
+    "Python.Lab055_For_Loop.executor": "Run",
+    "Python.Lab056_For_Loop.executor": "Run",
+    "Python.Lab057_For_Loop.executor": "Run",
+    "Python.Lab058_For_Loop.executor": "Run",
+    "Python.Lab059_While_Loop.executor": "Run",
+    "Python.Lab060_For.executor": "Run",
+    "Python.Lab061_For.executor": "Run",
+    "Python.Lab062_For.executor": "Run",
+    "Python.Lab063_Q.executor": "Run",
+    "Python.Lab064_For_Continue.executor": "Run",
+    "Python.Lab065_Match_Statement.executor": "Run",
+    "Python.Lab066_Task.executor": "Run",
+    "Python.Labo54_For_Loop.executor": "Run",
     "Python.Lba024.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -153,8 +172,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab059_While_Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_16112014_Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab059_While_Loop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab060_For_Break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_16112014_Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ASUS\PycharmProjects\PyATB5xLearning\Nov\ex_16112014_Loops\Lab060_For_Break.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab060_For_Break" />
+        <item itemvalue="Python.Lab059_While_Loop" />
         <item itemvalue="Python.Lab003_Python_Basics" />
         <item itemvalue="Python.Lab001_Python_HelloWorld" />
       </list>
@@ -192,12 +257,21 @@
       <option name="project" value="LOCAL" />
       <updated>1731183507040</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="14 Nov Task added">
+      <option name="closed" value="true" />
+      <created>1731587742133</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731587742133</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Files Added" />
     <MESSAGE value="Task 1 and Task 2 Solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 1 and Task 2 Solved" />
+    <MESSAGE value="14 Nov Task added" />
+    <option name="LAST_COMMIT_MESSAGE" value="14 Nov Task added" />
   </component>
 </project>
