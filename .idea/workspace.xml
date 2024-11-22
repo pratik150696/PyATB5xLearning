@@ -4,21 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="16 Nov Task added">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab067_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069_Built_In.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab070_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab072_Functions_Argument.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab073_Que_Input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab074_Functions_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab075_Interview_Que.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab076_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab077_Arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab078_Real_Example.py" afterDir="false" />
+    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="19 Nov practice file added">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab081_Local_Var.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab082_Inner_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab083_Decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab084_Decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab085_Without_Decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab086_Real_Decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab087_Decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab088_Type_Conversion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab066_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab066_Task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab052_Task1_Leap_Year.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab052_Task1_Leap_Year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab053_Task2_Triangle_Classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab053_Task2_Triangle_Classifier.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +131,16 @@
     "Python.Lab076_IQ.executor": "Run",
     "Python.Lab077_Arguments.executor": "Run",
     "Python.Lab078_Real_Example.executor": "Run",
+    "Python.Lab079.executor": "Run",
+    "Python.Lab080.executor": "Run",
+    "Python.Lab081_Local_Var.executor": "Run",
+    "Python.Lab082_Inner_Function.executor": "Run",
+    "Python.Lab083_Decorator.executor": "Run",
+    "Python.Lab084_Decorator.executor": "Run",
+    "Python.Lab085_Without_Decor.executor": "Run",
+    "Python.Lab086_Real_Decor.executor": "Run",
+    "Python.Lab087_Decor.executor": "Run",
+    "Python.Lab088_Type_Conversion.executor": "Run",
     "Python.Labo54_For_Loop.executor": "Run",
     "Python.Lba024.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -139,6 +148,11 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\PycharmProjects\PyATB5xLearning\Nov" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Lab001_Python_HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
@@ -230,10 +244,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab001_Python_HelloWorld" />
         <item itemvalue="Python.Lab060_For_Break" />
         <item itemvalue="Python.Lab059_While_Loop" />
         <item itemvalue="Python.Lab003_Python_Basics" />
-        <item itemvalue="Python.Lab001_Python_HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +307,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731788589522</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="19 Nov practice file added">
+      <option name="closed" value="true" />
+      <created>1732042238385</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732042238385</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -301,6 +323,7 @@
     <MESSAGE value="Task 1 and Task 2 Solved" />
     <MESSAGE value="14 Nov Task added" />
     <MESSAGE value="16 Nov Task added" />
-    <option name="LAST_COMMIT_MESSAGE" value="16 Nov Task added" />
+    <MESSAGE value="19 Nov practice file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="19 Nov practice file added" />
   </component>
 </project>

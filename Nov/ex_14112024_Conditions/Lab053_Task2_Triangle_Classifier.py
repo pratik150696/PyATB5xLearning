@@ -13,6 +13,7 @@ A = float(input("Enter length of side A: "))
 B = float(input("Enter length of side B: "))
 C = float(input("Enter length of side C: "))
 
+
 # Step2: Rough Logic   -->
 #  A = B = C --> Equilateral
 #  A = B = != C --> Isosceles
@@ -20,9 +21,20 @@ C = float(input("Enter length of side C: "))
 
 
 # Step3:  Write Logic
-if A == B and B == C:
-    print("Triangle is Equilateral")
-elif A == B or A == C or B == C:
-    print("Triangle is Isosceles")
-else:
-    print("Triangle is Scalene")
+def classify_triangle():
+    if A > 0 and B > 0 and C > 0:
+        if A + B > C and B + C > A and A + C > B:
+
+            if A == B == C:
+                print("Triangle is Equilateral")
+            elif A == B or A == C or B == C:
+                print("Triangle is Isosceles")
+            else:
+                print("Triangle is Scalene")
+        else:
+            print("Not a Valid Triangle")
+    else:
+        print("Not a Valid Length")
+
+
+classify_triangle()
