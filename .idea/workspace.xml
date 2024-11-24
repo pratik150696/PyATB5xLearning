@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="21 Nov practice file added">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab089_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab090_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab091_Multiple_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab092_Three_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab093_Lambda_Mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab094_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab095_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab096_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab097_List_Pop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab098_List_RealEx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab099_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab100_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab101_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab102_Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab103_Set_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab103_Set_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab103_Set_P3.py" afterDir="false" />
+    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="23 Nov practice file added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab103_Set_IQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab103_Set_IQ.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -271,6 +255,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab103_Set_IQ" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab103_Set_IQ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Lab001_Python_HelloWorld" />
@@ -352,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732277511952</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="23 Nov practice file added">
+      <option name="closed" value="true" />
+      <created>1732485916555</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732485916555</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -362,6 +376,7 @@
     <MESSAGE value="16 Nov Task added" />
     <MESSAGE value="19 Nov practice file added" />
     <MESSAGE value="21 Nov practice file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="21 Nov practice file added" />
+    <MESSAGE value="23 Nov practice file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="23 Nov practice file added" />
   </component>
 </project>
