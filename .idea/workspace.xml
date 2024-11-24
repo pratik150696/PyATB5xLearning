@@ -4,20 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="19 Nov practice file added">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab081_Local_Var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab082_Inner_Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab083_Decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab084_Decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab085_Without_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab086_Real_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab087_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functons_And_Decorators/Lab088_Type_Conversion.py" afterDir="false" />
+    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="21 Nov practice file added">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab089_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab090_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab091_Multiple_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab092_Three_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab093_Lambda_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab094_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab095_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab096_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab097_List_Pop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab098_List_RealEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab099_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab100_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab101_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab102_Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab103_Set_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab103_Set_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab103_Set_P3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab052_Task1_Leap_Year.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab052_Task1_Leap_Year.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab053_Task2_Triangle_Classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_14112024_Conditions/Lab053_Task2_Triangle_Classifier.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +64,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab)94_Lambda.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
     "Python.Lab003_Python_Basics.executor": "Run",
@@ -107,12 +113,14 @@
     "Python.Lab051_Task1.executor": "Run",
     "Python.Lab052_Task1_Leap_Year.executor": "Run",
     "Python.Lab053_Task2_Triangle_Classifier.executor": "Run",
+    "Python.Lab054_For_Loop.executor": "Run",
     "Python.Lab055_For_Loop.executor": "Run",
     "Python.Lab056_For_Loop.executor": "Run",
     "Python.Lab057_For_Loop.executor": "Run",
     "Python.Lab058_For_Loop.executor": "Run",
     "Python.Lab059_While_Loop.executor": "Run",
     "Python.Lab060_For.executor": "Run",
+    "Python.Lab060_For_Break.executor": "Run",
     "Python.Lab061_For.executor": "Run",
     "Python.Lab062_For.executor": "Run",
     "Python.Lab063_Q.executor": "Run",
@@ -141,11 +149,32 @@
     "Python.Lab086_Real_Decor.executor": "Run",
     "Python.Lab087_Decor.executor": "Run",
     "Python.Lab088_Type_Conversion.executor": "Run",
+    "Python.Lab089_Lambda.executor": "Run",
+    "Python.Lab090_Lambda.executor": "Run",
+    "Python.Lab091_Multiple_Lambda.executor": "Run",
+    "Python.Lab092_Three_Lambda.executor": "Run",
+    "Python.Lab093_Lambda_Mul.executor": "Run",
+    "Python.Lab094_Lambda.executor": "Run",
+    "Python.Lab095_List.executor": "Run",
+    "Python.Lab096_List.executor": "Run",
+    "Python.Lab097_List_Pop.executor": "Run",
+    "Python.Lab098_List_RealEx.executor": "Run",
+    "Python.Lab098_Tuple.executor": "Run",
+    "Python.Lab100_Tuple.executor": "Run",
+    "Python.Lab101_Tuple.executor": "Run",
+    "Python.Lab102_Set.executor": "Run",
+    "Python.Lab103_Set_IQ.executor": "Run",
+    "Python.Lab103_Set_P2.executor": "Run",
+    "Python.Lab103_Set_P3.executor": "Run",
     "Python.Labo54_For_Loop.executor": "Run",
     "Python.Lba024.executor": "Run",
+    "Python.git.executor": "Run",
+    "Python.gn.executor": "Run",
+    "Python.kh.executor": "Run",
+    "Python.new.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -315,7 +344,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732042238385</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="21 Nov practice file added">
+      <option name="closed" value="true" />
+      <created>1732277511951</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732277511952</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -324,6 +361,7 @@
     <MESSAGE value="14 Nov Task added" />
     <MESSAGE value="16 Nov Task added" />
     <MESSAGE value="19 Nov practice file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="19 Nov practice file added" />
+    <MESSAGE value="21 Nov practice file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="21 Nov practice file added" />
   </component>
 </project>
