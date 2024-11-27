@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="23 Nov practice file added">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dictionary/Lab106_Dict_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dictionary/Lab107_Dict_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dictionary/Lab108_Dict_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dictionary/Lab109_Dict_P4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dictionary/Lab110_Dict_Concepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dictionary/Lab111_IQ_Frequency_Char_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dictionary/Lab112_Dict_More_Concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dictionary/Lab113_IQ_Dict_Max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dictionary/Lab114_IQ_Dict_Remove_Duplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dictionary/Lab115_IQ_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dictionary/Lab116_Dict_Dup_Keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dictionary/Lab117_IQ_Count_Vowel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab103_Set_IQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab103_Set_IQ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab089_Lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab089_Lambda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab102_Set_P1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab102_Set_P1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab105_Set_IQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab105_Set_IQ.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +49,9 @@
     &quot;accountId&quot;: &quot;b015693c-2417-4bed-9c6a-479d91c75367&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -46,127 +63,142 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab)94_Lambda.executor": "Run",
-    "Python.Lab001_Python_HelloWorld.executor": "Run",
-    "Python.Lab002_Python_Basics.executor": "Run",
-    "Python.Lab003_Python_Basics.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab005_Variable.executor": "Run",
-    "Python.Lab006_Varibale_Identifier_Rules.executor": "Run",
-    "Python.Lab008_Dynamically_Typed.executor": "Run",
-    "Python.Lab009_Long_Variable_Name.executor": "Run",
-    "Python.Lab010.executor": "Run",
-    "Python.Lab011_BODMAS.executor": "Run",
-    "Python.Lab012_Multiple_var_in_singleline.executor": "Run",
-    "Python.Lab013.executor": "Run",
-    "Python.Lab014_Math_Function.executor": "Run",
-    "Python.Lab016.executor": "Run",
-    "Python.Lab018.executor": "Run",
-    "Python.Lab019.executor": "Run",
-    "Python.Lab020_Built_In_Function.executor": "Run",
-    "Python.Lab021_UserInput.executor": "Run",
-    "Python.Lab022_User_Input_Sum_Of_Two_Numbers.executor": "Run",
-    "Python.Lab023_Strings.executor": "Run",
-    "Python.Lab025_Strings.executor": "Run",
-    "Python.Lab027_Escape_Char.executor": "Run",
-    "Python.Lab028_Escape_Char.executor": "Run",
-    "Python.Lab029_Task1.executor": "Run",
-    "Python.Lab030_Task2.executor": "Run",
-    "Python.Lab031_Operators.executor": "Run",
-    "Python.Lab032_Arithmatic.executor": "Run",
-    "Python.Lab033_Operator_p1.executor": "Run",
-    "Python.Lab034_Operator_P2.executor": "Run",
-    "Python.Lab036_Operator_P4.executor": "Run",
-    "Python.Lab037_Operator_P5.executor": "Run",
-    "Python.Lab038_Operator_P6.executor": "Run",
-    "Python.Lab039_Operator_P7.executor": "Run",
-    "Python.Lab040_Operator_P8.executor": "Run",
-    "Python.Lab041_Ternary_Operator.executor": "Run",
-    "Python.Lab042_User_Input_Ternary_Operator.executor": "Run",
-    "Python.Lab043_Coding_Q_AreaOfCircle.executor": "Run",
-    "Python.Lab044_Task1.executor": "Run",
-    "Python.Lab045_Task2.executor": "Run",
-    "Python.Lab046_Task3.executor": "Run",
-    "Python.Lab048_Q.executor": "Run",
-    "Python.Lab049_If_Else_Condition.executor": "Run",
-    "Python.Lab050_If_Else_Condition.executor": "Run",
-    "Python.Lab051_Grade_Calculator.executor": "Run",
-    "Python.Lab051_Task1.executor": "Run",
-    "Python.Lab052_Task1_Leap_Year.executor": "Run",
-    "Python.Lab053_Task2_Triangle_Classifier.executor": "Run",
-    "Python.Lab054_For_Loop.executor": "Run",
-    "Python.Lab055_For_Loop.executor": "Run",
-    "Python.Lab056_For_Loop.executor": "Run",
-    "Python.Lab057_For_Loop.executor": "Run",
-    "Python.Lab058_For_Loop.executor": "Run",
-    "Python.Lab059_While_Loop.executor": "Run",
-    "Python.Lab060_For.executor": "Run",
-    "Python.Lab060_For_Break.executor": "Run",
-    "Python.Lab061_For.executor": "Run",
-    "Python.Lab062_For.executor": "Run",
-    "Python.Lab063_Q.executor": "Run",
-    "Python.Lab064_For_Continue.executor": "Run",
-    "Python.Lab065_Match_Statement.executor": "Run",
-    "Python.Lab066_Task.executor": "Run",
-    "Python.Lab067_Functions.executor": "Run",
-    "Python.Lab068.executor": "Run",
-    "Python.Lab069_Built_In.executor": "Run",
-    "Python.Lab070_Functions.executor": "Run",
-    "Python.Lab071.executor": "Run",
-    "Python.Lab072_Functions_Argument.executor": "Run",
-    "Python.Lab073_Que_Input.executor": "Run",
-    "Python.Lab074_Functions_Types.executor": "Run",
-    "Python.Lab075_Interview_Que.executor": "Run",
-    "Python.Lab076_IQ.executor": "Run",
-    "Python.Lab077_Arguments.executor": "Run",
-    "Python.Lab078_Real_Example.executor": "Run",
-    "Python.Lab079.executor": "Run",
-    "Python.Lab080.executor": "Run",
-    "Python.Lab081_Local_Var.executor": "Run",
-    "Python.Lab082_Inner_Function.executor": "Run",
-    "Python.Lab083_Decorator.executor": "Run",
-    "Python.Lab084_Decorator.executor": "Run",
-    "Python.Lab085_Without_Decor.executor": "Run",
-    "Python.Lab086_Real_Decor.executor": "Run",
-    "Python.Lab087_Decor.executor": "Run",
-    "Python.Lab088_Type_Conversion.executor": "Run",
-    "Python.Lab089_Lambda.executor": "Run",
-    "Python.Lab090_Lambda.executor": "Run",
-    "Python.Lab091_Multiple_Lambda.executor": "Run",
-    "Python.Lab092_Three_Lambda.executor": "Run",
-    "Python.Lab093_Lambda_Mul.executor": "Run",
-    "Python.Lab094_Lambda.executor": "Run",
-    "Python.Lab095_List.executor": "Run",
-    "Python.Lab096_List.executor": "Run",
-    "Python.Lab097_List_Pop.executor": "Run",
-    "Python.Lab098_List_RealEx.executor": "Run",
-    "Python.Lab098_Tuple.executor": "Run",
-    "Python.Lab100_Tuple.executor": "Run",
-    "Python.Lab101_Tuple.executor": "Run",
-    "Python.Lab102_Set.executor": "Run",
-    "Python.Lab103_Set_IQ.executor": "Run",
-    "Python.Lab103_Set_P2.executor": "Run",
-    "Python.Lab103_Set_P3.executor": "Run",
-    "Python.Labo54_For_Loop.executor": "Run",
-    "Python.Lba024.executor": "Run",
-    "Python.git.executor": "Run",
-    "Python.gn.executor": "Run",
-    "Python.kh.executor": "Run",
-    "Python.new.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab)94_Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001_Python_HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002_Python_Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_Python_Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005_Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006_Varibale_Identifier_Rules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008_Dynamically_Typed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009_Long_Variable_Name.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011_BODMAS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012_Multiple_var_in_singleline.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014_Math_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020_Built_In_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021_UserInput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022_User_Input_Sum_Of_Two_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab027_Escape_Char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028_Escape_Char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab029_Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab030_Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab032_Arithmatic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab033_Operator_p1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab034_Operator_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab036_Operator_P4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab037_Operator_P5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab038_Operator_P6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab039_Operator_P7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab040_Operator_P8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab041_Ternary_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab042_User_Input_Ternary_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab043_Coding_Q_AreaOfCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab044_Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab045_Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab046_Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab048_Q.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab049_If_Else_Condition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab050_If_Else_Condition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab051_Grade_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab051_Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab052_Task1_Leap_Year.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab053_Task2_Triangle_Classifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab054_For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab055_For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab056_For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab057_For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab058_For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab059_While_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab060_For.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab060_For_Break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab061_For.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab062_For.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab063_Q.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab064_For_Continue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab065_Match_Statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab066_Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab067_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab068.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab069_Built_In.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab070_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab071.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab072_Functions_Argument.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab073_Que_Input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab074_Functions_Types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab075_Interview_Que.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab076_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab077_Arguments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab078_Real_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab079.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab080.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab081_Local_Var.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab082_Inner_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab083_Decorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab084_Decorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab085_Without_Decor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab086_Real_Decor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab087_Decor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab088_Type_Conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab089_Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab090_Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab091_Multiple_Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab092_Three_Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab093_Lambda_Mul.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab094_Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab095_List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab096_List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab097_List_Pop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab098_List_RealEx.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab098_Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab100_Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab101_Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab102_Set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab103_Set_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab103_Set_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab103_Set_P3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab105_Set_IQ (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab105_Set_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab106_Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab107_Dict_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab108_Dict_P3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab109_Dict_P4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab110_Dict_Concepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab111_IQ_Frequency_Char_String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab112_Dict_More_Concept.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab113_IQ_Dict_Max.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab114_IQ_Dict_Remove_Duplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab115_IQ_Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab116_IQ_Dict_Dup_Keys.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab117_IQ_Count_Vowel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Labo54_For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lba024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.git.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kh.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\PycharmProjects\PyATB5xLearning\Nov" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Lab105_Set_IQ">
     <configuration name="Lab001_Python_HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -255,7 +287,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab103_Set_IQ" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="Lab105_Set_IQ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,7 +300,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab103_Set_IQ.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab105_Set_IQ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab105_Set_IQ" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ASUS\PycharmProjects\PyATB5xLearning\Nov\ex_23112024_Lambda_List_Tuple_Set\Lab105_Set_IQ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,6 +333,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab105_Set_IQ (1)" />
         <item itemvalue="Python.Lab001_Python_HelloWorld" />
         <item itemvalue="Python.Lab060_For_Break" />
         <item itemvalue="Python.Lab059_While_Loop" />
@@ -289,7 +344,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -366,7 +421,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732485916555</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="23 Nov practice file added">
+      <option name="closed" value="true" />
+      <created>1732486170940</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732486170940</updated>
+    </task>
+    <task id="LOCAL-00010" summary="23 Nov practice file added">
+      <option name="closed" value="true" />
+      <created>1732486296468</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732486296468</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -378,5 +449,21 @@
     <MESSAGE value="21 Nov practice file added" />
     <MESSAGE value="23 Nov practice file added" />
     <option name="LAST_COMMIT_MESSAGE" value="23 Nov practice file added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab105_Set_IQ.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab105_Set_IQ.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,3 +1,6 @@
+# Lambda ---> It is used for shortening the code, but there are some limitations
+
+
 
 # def triple_me(num):
 #     return num ** 3
