@@ -4,19 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="30 Nov practice file added">
-      <change afterPath="$PROJECT_DIR$/Dec/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOps_Inheritance/Lab134_Inheritance_single.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOps_Inheritance/Lab135_Inheritance_single.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOps_Inheritance/Lab136_Inheritance_Multilevel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOps_Inheritance/Lab137_Inheritance_Multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOps_Inheritance/Lab138_Inheritance_Multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOps_Inheritance/Lab139_Inheritance_Hierarchical.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOps_Inheritance/Lab140_Inheritance_Hybrid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOps_Inheritance/Lab141_Inheritance_Real_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOps_Inheritance/Lab142_Polymorphism_Method_Overloading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOps_Inheritance/Lab143_Polymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOps_Inheritance/Lab144_Polymorphism_Method_Overriding.py" afterDir="false" />
+    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="3 Dec practice file added">
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab145_Poly_Ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab146_Poly_Method_Overloading_Fixed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab147_Poly_Method_Overloading_Fixed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab148_Poly_Method_Overriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab149_Method_Overriding_Real.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab150_Abstraction_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab151_Abstraction_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab152_Abstraction_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab153_Abstraction_P4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab154_Static_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab155_Static_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab156_Abstraction_Static_Task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender may affect IDE",
+    "Notification.DoNotAsk-WindowsDefender": "true",
     "Python.Lab)94_Lambda.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
@@ -203,6 +205,17 @@
     "Python.Lab142_Polymorphism.executor": "Run",
     "Python.Lab143_Polymorphism.executor": "Run",
     "Python.Lab144_Polymorphism_Method_Overriding.executor": "Run",
+    "Python.Lab145_Poly_Ex.executor": "Run",
+    "Python.Lab147_Poly_Method_Over_Fixed.executor": "Run",
+    "Python.Lab149_Method_Overriding_Real.executor": "Run",
+    "Python.Lab150_Abstraction_P1.executor": "Run",
+    "Python.Lab151_Abstraction_P2.executor": "Run",
+    "Python.Lab152_Abstraction_P3.executor": "Run",
+    "Python.Lab153_Abstraction_P4.executor": "Run",
+    "Python.Lab154_Static.executor": "Run",
+    "Python.Lab154_Static_P2.executor": "Run",
+    "Python.Lab155_Static_P2.executor": "Run",
+    "Python.Lab156_Abstraction_Static_Task.executor": "Run",
     "Python.Labo54_For_Loop.executor": "Run",
     "Python.Lba024.executor": "Run",
     "Python.git.executor": "Run",
@@ -475,7 +488,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733224192460</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="3 Dec practice file added">
+      <option name="closed" value="true" />
+      <created>1733257841118</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733257841118</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -488,7 +509,8 @@
     <MESSAGE value="23 Nov practice file added" />
     <MESSAGE value="26 Nov practice file added" />
     <MESSAGE value="30 Nov practice file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="30 Nov practice file added" />
+    <MESSAGE value="3 Dec practice file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 Dec practice file added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -502,6 +524,11 @@
           <url>file://$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab105_Set_IQ.py</url>
           <line>5</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab153_Abstraction_P4.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
