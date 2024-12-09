@@ -4,19 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="3 Dec practice file added">
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab145_Poly_Ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab146_Poly_Method_Overloading_Fixed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab147_Poly_Method_Overloading_Fixed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab148_Poly_Method_Overriding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab149_Method_Overriding_Real.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab150_Abstraction_P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab151_Abstraction_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab152_Abstraction_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab153_Abstraction_P4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab154_Static_P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab155_Static_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab156_Abstraction_Static_Task.py" afterDir="false" />
+    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="5 Dec practice file and task added">
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab157_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab158_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab159_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab160_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab161_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab162_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab163_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab164_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab165_Exception_Fix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab166_Exception_Try_Except_Syntax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab167_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab168_Exception_Else_Finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab169_Exception_Else_Finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab170_Exception_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab171_Exception_Custom_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab172_Exception_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab173_Exception_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab174_File_IO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab175_Main_Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab176_Main_Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab177_Main_Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab178_Write_File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab179_CSV_File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab180_CSV_File_Pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/TestData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/TestData.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -216,6 +230,28 @@
     "Python.Lab154_Static_P2.executor": "Run",
     "Python.Lab155_Static_P2.executor": "Run",
     "Python.Lab156_Abstraction_Static_Task.executor": "Run",
+    "Python.Lab157_Exception.executor": "Run",
+    "Python.Lab158_Exception.executor": "Run",
+    "Python.Lab159_Exception.executor": "Run",
+    "Python.Lab160_Exception.executor": "Run",
+    "Python.Lab161_Exception.executor": "Run",
+    "Python.Lab162_Exception.executor": "Run",
+    "Python.Lab163_Exception.executor": "Run",
+    "Python.Lab164_Exception.executor": "Run",
+    "Python.Lab165_Exception_Fix.executor": "Run",
+    "Python.Lab167_Exception.executor": "Run",
+    "Python.Lab168_Exception_Else_Finally.executor": "Run",
+    "Python.Lab170_Exception_Else_Finally.executor": "Run",
+    "Python.Lab171_Exception_Custom_Exception.executor": "Run",
+    "Python.Lab171_Exception_OS.executor": "Run",
+    "Python.Lab172_Exception_OS.executor": "Run",
+    "Python.Lab173_File_IO.executor": "Run",
+    "Python.Lab175_Main_Method.executor": "Run",
+    "Python.Lab176_Main_Method.executor": "Run",
+    "Python.Lab177_Main_Method.executor": "Run",
+    "Python.Lab178_Write_File.executor": "Run",
+    "Python.Lab179_CSV_File.executor": "Run",
+    "Python.Lab180_CSV_File_Pandas.executor": "Run",
     "Python.Labo54_For_Loop.executor": "Run",
     "Python.Lba024.executor": "Run",
     "Python.git.executor": "Run",
@@ -248,28 +284,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab003_Python_Basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -366,13 +380,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab177_Main_Method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_07122014_Exceptions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dec/ex_07122014_Exceptions/Lab177_Main_Method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab177_Main_Method" />
         <item itemvalue="Python.Lab105_Set_IQ (1)" />
         <item itemvalue="Python.Lab001_Python_HelloWorld" />
         <item itemvalue="Python.Lab060_For_Break" />
         <item itemvalue="Python.Lab059_While_Loop" />
-        <item itemvalue="Python.Lab003_Python_Basics" />
       </list>
     </recent_temporary>
   </component>
@@ -496,7 +532,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733257841118</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="5 Dec practice file and task added">
+      <option name="closed" value="true" />
+      <created>1733433752039</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1733433752039</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -510,7 +554,8 @@
     <MESSAGE value="26 Nov practice file added" />
     <MESSAGE value="30 Nov practice file added" />
     <MESSAGE value="3 Dec practice file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 Dec practice file added" />
+    <MESSAGE value="5 Dec practice file and task added" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 Dec practice file and task added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
