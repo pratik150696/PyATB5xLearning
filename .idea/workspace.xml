@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="7 Dec practice files added">
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/Lab181_Modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/Lab182_Modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/Lab183_Import_From_Package.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/Lab184_Import_From_Package.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/MySQLConnector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/browserPackage/OpenBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/browserPackage/StopBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/browserPackage/__init__.py" afterDir="false" />
+    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="10 Dec practice files added">
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/Lab185.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab186_PyTest_Learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab187_PyTest_Learning2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab188_PyTest_Learning_Allure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab189_Get_Request.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +58,10 @@
   "keyToString": {
     "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender may affect IDE",
     "Notification.DoNotAsk-WindowsDefender": "true",
+    "Python tests.Python tests for test_Lab186_PyTest_Learning.test_method2.executor": "Run",
+    "Python tests.Python tests for test_Lab187_PyTest_Learning2.test_method2.executor": "Run",
+    "Python tests.Python tests for test_Lab187_PyTest_Learning2.test_method3.executor": "Run",
+    "Python tests.Python tests for test_Lab189_Get_Request.test_get_request_positive.executor": "Run",
     "Python.Lab)94_Lambda.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
@@ -255,95 +256,7 @@
       <recent name="C:\Users\ASUS\PycharmProjects\PyATB5xLearning\Nov" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Lab001_Python_HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab059_While_Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_16112014_Loops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_16112014_Loops/Lab059_While_Loop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab060_For_Break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_16112014_Loops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\ASUS\PycharmProjects\PyATB5xLearning\Nov\ex_16112014_Loops\Lab060_For_Break.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab105_Set_IQ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_Set/Lab105_Set_IQ.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab189_Get_Request.test_get_request_positive">
     <configuration name="Lab105_Set_IQ" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -388,13 +301,73 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab186_PyTest_Learning.test_method2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_28122024_PyTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab186_PyTest_Learning.test_method2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab187_PyTest_Learning2.test_method2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_28122024_PyTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab187_PyTest_Learning2.test_method2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab187_PyTest_Learning2.test_method3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_28122024_PyTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab187_PyTest_Learning2.test_method3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab189_Get_Request.test_get_request_positive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_28122024_PyTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab189_Get_Request.test_get_request_positive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab189_Get_Request.test_get_request_positive" />
+        <item itemvalue="Python tests.Python tests for test_Lab187_PyTest_Learning2.test_method2" />
+        <item itemvalue="Python tests.Python tests for test_Lab187_PyTest_Learning2.test_method3" />
+        <item itemvalue="Python tests.Python tests for test_Lab186_PyTest_Learning.test_method2" />
         <item itemvalue="Python.Lab177_Main_Method" />
-        <item itemvalue="Python.Lab105_Set_IQ (1)" />
-        <item itemvalue="Python.Lab001_Python_HelloWorld" />
-        <item itemvalue="Python.Lab060_For_Break" />
-        <item itemvalue="Python.Lab059_While_Loop" />
       </list>
     </recent_temporary>
   </component>
@@ -534,7 +507,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733760467482</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="10 Dec practice files added">
+      <option name="closed" value="true" />
+      <created>1733949203892</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1733949203892</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -550,7 +531,8 @@
     <MESSAGE value="3 Dec practice file added" />
     <MESSAGE value="5 Dec practice file and task added" />
     <MESSAGE value="7 Dec practice files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 Dec practice files added" />
+    <MESSAGE value="10 Dec practice files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 Dec practice files added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
