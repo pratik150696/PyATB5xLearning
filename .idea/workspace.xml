@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="28 Dec API practice files added">
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab190_PyTest_Learn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab191_PyTest_Post_Requests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab192_PyTest_Post_Requests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/tset_Lab193_PyTest_Post_Requests.py" afterDir="false" />
+    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="31 Dec API practice files added">
+      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_CSV_FILE_READ/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_CSV_FILE_READ/test_csv_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_CSV_FILE_READ/userdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/test_Lab194_Fixture_Demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/test_Lab195_Fixture_Demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/test_Lab196_Fixture_Demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/test_Lab197_Full_Update.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab189_Get_Request.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab189_PyTest_Get_Requests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/tset_Lab193_PyTest_Post_Requests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab193_PyTest_Post_Requests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +45,11 @@
     &quot;accountId&quot;: &quot;b015693c-2417-4bed-9c6a-479d91c75367&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Dec/ex_02012025_Fixture/conftest.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -58,6 +66,8 @@
   "keyToString": {
     "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender may affect IDE",
     "Notification.DoNotAsk-WindowsDefender": "true",
+    "Python tests.Python tests for conftest.test_create_booking_id.executor": "Run",
+    "Python tests.Python tests for conftest.test_create_token.executor": "Run",
     "Python tests.Python tests for test_Lab186_PyTest_Learning.test_method2.executor": "Run",
     "Python tests.Python tests for test_Lab187_PyTest_Learning2.test_method2.executor": "Run",
     "Python tests.Python tests for test_Lab187_PyTest_Learning2.test_method3.executor": "Run",
@@ -66,7 +76,15 @@
     "Python tests.Python tests for test_Lab191_PyTest_Post_Requests.test_create_booking_negative_tc1.executor": "Run",
     "Python tests.Python tests for test_Lab191_PyTest_Post_Requests.test_create_booking_positive_tc1.executor": "Run",
     "Python tests.Python tests for test_Lab192_PyTest_Post_Requests.test_create_token_tc1.executor": "Run",
+    "Python tests.Python tests for test_Lab194_Fixture_Demo.test_update.executor": "Run",
+    "Python tests.Python tests for test_Lab195_Fixture_Demo2.test_put.executor": "Run",
+    "Python tests.Python tests for test_Lab196_Fixture_Demo3.test_update_req_1.executor": "Run",
+    "Python tests.Python tests for test_csv_read.Test_Read.executor": "Run",
+    "Python tests.Python tests for test_csv_read.Test_Read.test_read_csv_pandas.executor": "Run",
+    "Python tests.Python tests for tset_Lab193_PyTest_Post_Requests.test_delete_requests.executor": "Run",
     "Python tests.Python tests for tset_Lab193_PyTest_Post_Requests.test_put_requests.executor": "Run",
+    "Python tests.Python tests in test_Lab195_Fixture_Demo2.py.executor": "Run",
+    "Python tests.Python tests in test_Lab197_Full_Update.py.executor": "Run",
     "Python.Lab)94_Lambda.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
@@ -262,7 +280,7 @@
       <recent name="C:\Users\ASUS\PycharmProjects\PyATB5xLearning\Nov" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for tset_Lab193_PyTest_Post_Requests.test_put_requests">
+  <component name="RunManager" selected="Python tests.Python tests for test_csv_read.Test_Read">
     <configuration name="Lab105_Set_IQ" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -285,102 +303,95 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tset_Lab193_PyTest_Post_Requests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/tset_Lab193_PyTest_Post_Requests.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Lab191_PyTest_Post_Requests.test_create_booking_negative_tc1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for conftest.test_create_booking_id" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_02012025_Fixture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab191_PyTest_Post_Requests.test_create_booking_negative_tc1&quot;" />
+      <option name="_new_target" value="&quot;conftest.test_create_booking_id&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab191_PyTest_Post_Requests.test_create_booking_positive_tc1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for conftest.test_create_token" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_02012025_Fixture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab191_PyTest_Post_Requests.test_create_booking_positive_tc1&quot;" />
+      <option name="_new_target" value="&quot;conftest.test_create_token&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab192_PyTest_Post_Requests.test_create_token_tc1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab196_Fixture_Demo3.test_update_req_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_02012025_Fixture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab192_PyTest_Post_Requests.test_create_token_tc1&quot;" />
+      <option name="_new_target" value="&quot;test_Lab196_Fixture_Demo3.test_update_req_1&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for tset_Lab193_PyTest_Post_Requests.test_put_requests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_csv_read.Test_Read" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_02012025_CSV_FILE_READ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tset_Lab193_PyTest_Post_Requests.test_put_requests&quot;" />
+      <option name="_new_target" value="&quot;test_csv_read.Test_Read&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_csv_read.Test_Read.test_read_csv_pandas" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_02012025_CSV_FILE_READ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_csv_read.Test_Read.test_read_csv_pandas&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for tset_Lab193_PyTest_Post_Requests.test_put_requests" />
-        <item itemvalue="Python.tset_Lab193_PyTest_Post_Requests" />
-        <item itemvalue="Python tests.Python tests for test_Lab192_PyTest_Post_Requests.test_create_token_tc1" />
-        <item itemvalue="Python tests.Python tests for test_Lab191_PyTest_Post_Requests.test_create_booking_negative_tc1" />
-        <item itemvalue="Python tests.Python tests for test_Lab191_PyTest_Post_Requests.test_create_booking_positive_tc1" />
+        <item itemvalue="Python tests.Python tests for test_csv_read.Test_Read" />
+        <item itemvalue="Python tests.Python tests for test_csv_read.Test_Read.test_read_csv_pandas" />
+        <item itemvalue="Python tests.Python tests for conftest.test_create_booking_id" />
+        <item itemvalue="Python tests.Python tests for conftest.test_create_token" />
+        <item itemvalue="Python tests.Python tests for test_Lab196_Fixture_Demo3.test_update_req_1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -529,8 +540,30 @@
       <option name="project" value="LOCAL" />
       <updated>1736013109805</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="31 Dec API practice files added">
+      <option name="closed" value="true" />
+      <created>1736086212016</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1736086212016</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Files Added" />
@@ -547,7 +580,8 @@
     <MESSAGE value="7 Dec practice files added" />
     <MESSAGE value="10 Dec practice files added" />
     <MESSAGE value="28 Dec API practice files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="28 Dec API practice files added" />
+    <MESSAGE value="31 Dec API practice files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="31 Dec API practice files added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
