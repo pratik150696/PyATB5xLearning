@@ -4,19 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="31 Dec API practice files added">
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_CSV_FILE_READ/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_CSV_FILE_READ/test_csv_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_CSV_FILE_READ/userdata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/test_Lab194_Fixture_Demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/test_Lab195_Fixture_Demo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/test_Lab196_Fixture_Demo3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/test_Lab197_Full_Update.py" afterDir="false" />
+    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="2 Jan API practice files added">
+      <change afterPath="$PROJECT_DIR$/Jan/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_01_Selenium_Test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_01_Selenium_Test/test01_Selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_01_Selenium_Test/test02_Selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_01_Selenium_Test/test04_Selenium_Basic_Command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_01_Selenium_Test/test05_Selenium_Command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_02_Selenium_Mini_Project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_02_Selenium_Mini_Project/test06_Selenium_Mini_Project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_02_Selenium_Mini_Project/test07_Selenium_Mini_Multiple_Browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_03_Selenium_Locators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_03_Selenium_Locators/test09_Selenium_Locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_03_Selenium_Locators/test10_Selenium_Locators_Options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_03_Selenium_Locators/test11_Selenium_Locators_Mini_Project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_03_Selenium_Locators/test12_Selenium_Locators_Mini_Project_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_03_Selenium_Locators/test13_Selenium_Locators_Tag_Name.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/tset_Lab193_PyTest_Post_Requests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab193_PyTest_Post_Requests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +73,7 @@
     "Notification.DoNotAsk-WindowsDefender": "true",
     "Python tests.Python tests for conftest.test_create_booking_id.executor": "Run",
     "Python tests.Python tests for conftest.test_create_token.executor": "Run",
+    "Python tests.Python tests for test11_Selenium_Locators_Mini_Project.test_vwo_chrome.executor": "Run",
     "Python tests.Python tests for test_Lab186_PyTest_Learning.test_method2.executor": "Run",
     "Python tests.Python tests for test_Lab187_PyTest_Learning2.test_method2.executor": "Run",
     "Python tests.Python tests for test_Lab187_PyTest_Learning2.test_method3.executor": "Run",
@@ -83,6 +89,12 @@
     "Python tests.Python tests for test_csv_read.Test_Read.test_read_csv_pandas.executor": "Run",
     "Python tests.Python tests for tset_Lab193_PyTest_Post_Requests.test_delete_requests.executor": "Run",
     "Python tests.Python tests for tset_Lab193_PyTest_Post_Requests.test_put_requests.executor": "Run",
+    "Python tests.Python tests in test01_Selenium.py.executor": "Run",
+    "Python tests.Python tests in test09_Selenium_Locators.py.executor": "Run",
+    "Python tests.Python tests in test10_Selenium_Locators_Options.py.executor": "Run",
+    "Python tests.Python tests in test11_Selenium_Locators_Mini_Project.py.executor": "Run",
+    "Python tests.Python tests in test12_Selenium_Locators_Mini_Project_2.py.executor": "Run",
+    "Python tests.Python tests in test13_Selenium_Locators_Tag_Name.py.executor": "Run",
     "Python tests.Python tests in test_Lab195_Fixture_Demo2.py.executor": "Run",
     "Python tests.Python tests in test_Lab197_Full_Update.py.executor": "Run",
     "Python.Lab)94_Lambda.executor": "Run",
@@ -96,6 +108,7 @@
     "Python.Lab008_Dynamically_Typed.executor": "Run",
     "Python.Lab009_Long_Variable_Name.executor": "Run",
     "Python.Lab010.executor": "Run",
+    "Python.Lab010_Add.executor": "Run",
     "Python.Lab011_BODMAS.executor": "Run",
     "Python.Lab012_Multiple_var_in_singleline.executor": "Run",
     "Python.Lab013.executor": "Run",
@@ -268,10 +281,13 @@
     "Python.gn.executor": "Run",
     "Python.kh.executor": "Run",
     "Python.new.executor": "Run",
+    "Python.test06_Selenium_Mini_Project.executor": "Run",
+    "Python.test07_Selenium_Mini_Multiple_Browser.executor": "Run",
     "Python.tset_Lab193_PyTest_Post_Requests.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ASUS/PycharmProjects/PyATB5xAPIAutomationFramework",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
@@ -280,7 +296,7 @@
       <recent name="C:\Users\ASUS\PycharmProjects\PyATB5xLearning\Nov" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_csv_read.Test_Read">
+  <component name="RunManager">
     <configuration name="Lab105_Set_IQ" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -333,18 +349,18 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab196_Fixture_Demo3.test_update_req_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test11_Selenium_Locators_Mini_Project.test_vwo_chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_02012025_Fixture" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex_03_Selenium_Locators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab196_Fixture_Demo3.test_update_req_1&quot;" />
+      <option name="_new_target" value="&quot;test11_Selenium_Locators_Mini_Project.test_vwo_chrome&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -380,11 +396,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test11_Selenium_Locators_Mini_Project.test_vwo_chrome" />
         <item itemvalue="Python tests.Python tests for test_csv_read.Test_Read" />
         <item itemvalue="Python tests.Python tests for test_csv_read.Test_Read.test_read_csv_pandas" />
         <item itemvalue="Python tests.Python tests for conftest.test_create_booking_id" />
         <item itemvalue="Python tests.Python tests for conftest.test_create_token" />
-        <item itemvalue="Python tests.Python tests for test_Lab196_Fixture_Demo3.test_update_req_1" />
       </list>
     </recent_temporary>
   </component>
@@ -548,7 +564,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736086212016</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="2 Jan API practice files added">
+      <option name="closed" value="true" />
+      <created>1736249890511</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1736249890511</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -581,7 +605,8 @@
     <MESSAGE value="10 Dec practice files added" />
     <MESSAGE value="28 Dec API practice files added" />
     <MESSAGE value="31 Dec API practice files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="31 Dec API practice files added" />
+    <MESSAGE value="2 Jan API practice files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 Jan API practice files added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -600,6 +625,15 @@
           <url>file://$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab153_Abstraction_P4.py</url>
           <line>25</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Jan/ex_03_Selenium_Locators/test09_Selenium_Locators.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Jan/ex_03_Selenium_Locators/test13_Selenium_Locators_Tag_Name.py</url>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
