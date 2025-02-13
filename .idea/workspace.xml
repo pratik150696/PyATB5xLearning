@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="16 Jan Selenium practice files added">
-      <change afterPath="$PROJECT_DIR$/Jan/ex_04_Selenium_Locators_XPath/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_04_Selenium_Locators_XPath/test14_Selenium_Locators_XPath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_04_Selenium_Locators_XPath/test15_Selenium_Mini_Project_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_05_Selenium_Waits/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_05_Selenium_Waits/test16_Waits_Implicit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_05_Selenium_Waits/test17_Waits_Explicit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_05_Selenium_Waits/test18_Waits_Fluent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_06_Selenium_Alerts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_06_Selenium_Alerts/test19_Alert_JS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_06_Selenium_Alerts/test20_Alert_Modals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex_06_Selenium_Alerts/test21_Modal_Close.py" afterDir="false" />
+    <list default="true" id="e4cbe690-f595-48be-9bb3-60359307753a" name="Changes" comment="Waits practice files are added">
+      <change afterPath="$PROJECT_DIR$/Jan/ex_07_Actions_Windows_IFrame_JS/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_07_Actions_Windows_IFrame_JS/test22_Selenium_Actions_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_07_Actions_Windows_IFrame_JS/test23_Selenium_Actions_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_07_Actions_Windows_IFrame_JS/test24_Selenium_Actions_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_07_Actions_Windows_IFrame_JS/test25_Selenium_Actions_MMT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_07_Actions_Windows_IFrame_JS/test26_Selenium_Windows.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +73,9 @@
     "Python tests.Python tests for test19_Alert_JS.test_alert_prompt.executor": "Run",
     "Python tests.Python tests for test20_Alert_Modals.test_modal.executor": "Run",
     "Python tests.Python tests for test21_Modal_Close.test_modal.executor": "Run",
+    "Python tests.Python tests for test22_Selenium_Actions.test_verify_action_keyboard.executor": "Run",
+    "Python tests.Python tests for test22_Selenium_Actions_P2.test_verify_action_mouse.executor": "Run",
+    "Python tests.Python tests for test25_Selenium_Actions_MMT.test_verify_action_makemytrip.executor": "Run",
     "Python tests.Python tests for test_Lab186_PyTest_Learning.test_method2.executor": "Run",
     "Python tests.Python tests for test_Lab187_PyTest_Learning2.test_method2.executor": "Run",
     "Python tests.Python tests for test_Lab187_PyTest_Learning2.test_method3.executor": "Run",
@@ -105,6 +103,7 @@
     "Python tests.Python tests in test17_Waits_Explicit.py.executor": "Run",
     "Python tests.Python tests in test18_Waits_Fluent.py.executor": "Run",
     "Python tests.Python tests in test19_Alert_JS.py.executor": "Run",
+    "Python tests.Python tests in test22_Selenium_Actions.py.executor": "Run",
     "Python tests.Python tests in test_Lab195_Fixture_Demo2.py.executor": "Run",
     "Python tests.Python tests in test_Lab197_Full_Update.py.executor": "Run",
     "Python.Lab)94_Lambda.executor": "Run",
@@ -306,7 +305,7 @@
       <recent name="C:\Users\ASUS\PycharmProjects\PyATB5xLearning\Nov" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test15_Selenium_Mini_Project_2.test_desktop_comp">
+  <component name="RunManager" selected="Python tests.Python tests for test25_Selenium_Actions_MMT.test_verify_action_makemytrip">
     <configuration name="Lab105_Set_IQ" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -329,6 +328,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for Jan.ex_07_Actions_Windows_IFrame_JS.test22_Selenium_Actions_P1.test_verify_action_keyboard" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex_07_Actions_Windows_IFrame_JS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Jan.ex_07_Actions_Windows_IFrame_JS.test22_Selenium_Actions_P1.test_verify_action_keyboard&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Jan.ex_07_Actions_Windows_IFrame_JS.test23_Selenium_Actions_P2.test_verify_action_mouse" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex_07_Actions_Windows_IFrame_JS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Jan.ex_07_Actions_Windows_IFrame_JS.test23_Selenium_Actions_P2.test_verify_action_mouse&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test15_Selenium_Mini_Project_2.test_desktop_comp" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -341,51 +370,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test15_Selenium_Mini_Project_2.test_desktop_comp&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test19_Alert_JS.test_alert_confirm" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex_06_Selenium_Alerts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test19_Alert_JS.test_alert_confirm&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test19_Alert_JS.test_alert_prompt" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex_06_Selenium_Alerts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test19_Alert_JS.test_alert_prompt&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test20_Alert_Modals.test_modal" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex_06_Selenium_Alerts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test20_Alert_Modals.test_modal&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -404,13 +388,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test25_Selenium_Actions_MMT.test_verify_action_makemytrip" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex_07_Actions_Windows_IFrame_JS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test25_Selenium_Actions_MMT.test_verify_action_makemytrip&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test25_Selenium_Actions_MMT.test_verify_action_makemytrip" />
+        <item itemvalue="Python tests.Python tests for Jan.ex_07_Actions_Windows_IFrame_JS.test23_Selenium_Actions_P2.test_verify_action_mouse" />
+        <item itemvalue="Python tests.Python tests for Jan.ex_07_Actions_Windows_IFrame_JS.test22_Selenium_Actions_P1.test_verify_action_keyboard" />
         <item itemvalue="Python tests.Python tests for test15_Selenium_Mini_Project_2.test_desktop_comp" />
         <item itemvalue="Python tests.Python tests for test21_Modal_Close.test_modal" />
-        <item itemvalue="Python tests.Python tests for test20_Alert_Modals.test_modal" />
-        <item itemvalue="Python tests.Python tests for test19_Alert_JS.test_alert_prompt" />
-        <item itemvalue="Python tests.Python tests for test19_Alert_JS.test_alert_confirm" />
       </list>
     </recent_temporary>
   </component>
@@ -598,7 +597,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739273356297</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Waits practice files are added">
+      <option name="closed" value="true" />
+      <created>1739392618583</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1739392618583</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -633,7 +640,8 @@
     <MESSAGE value="31 Dec API practice files added" />
     <MESSAGE value="2 Jan API practice files added" />
     <MESSAGE value="16 Jan Selenium practice files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="16 Jan Selenium practice files added" />
+    <MESSAGE value="Waits practice files are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Waits practice files are added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
